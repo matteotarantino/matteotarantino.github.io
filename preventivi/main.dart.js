@@ -40267,7 +40267,7 @@ return M.ae(u,U.c9("web/assets/images/clar_logo_rettangolo.png",C.H,u,t/42,u),u,
 K:function(a){var u=null,t=F.av(a,!1).a.a,s=F.av(a,!1).a.b
 this.d=t
 this.e=s
-return M.qy(u,T.i5(H.c([M.ae(u,new T.eI(C.H,u,u,new B.BM(new G.H4(new L.KW(this),6,!0,!0,!0),u,C.p,!1,u,!0,C.m1,!0,u,6,C.ao,u),u),u,u,u,s,u,u,t)],[N.aj]),C.A,C.o,u,C.C,C.l,u,u,C.aG))},
+return M.qy(u,T.i5(H.c([M.ae(u,new T.eI(C.H,u,u,new B.BM(new G.H4(new L.KW(this),7,!0,!0,!0),u,C.p,!1,u,!0,C.m1,!0,u,7,C.ao,u),u),u,u,u,s,u,u,t)],[N.aj]),C.A,C.o,u,C.C,C.l,u,u,C.aG))},
 $aO:function(){return[L.jX]}}
 L.KW.prototype={
 $2:function(a,b){var u,t,s,r,q,p,o,n,m,l,k,j,i,h=null,g="Oswald",f=this.a
@@ -40320,7 +40320,7 @@ k=f.e
 k=L.a1("- Sicurezza anti hacker",h,h,h,A.a_(h,h,P.aq(209,0,0,1),h,h,h,h,h,g,h,h,k/32,h,h,h,h,!0,h,h,h,h,h,h),C.D)
 j=f.e
 i=[N.aj]
-n=T.aS(H.c([s,T.b9(H.c([M.ae(h,T.aS(H.c([new T.bw(h,r/3.5,h,h),p,o,m,l,k,L.a1(" Ottimizzazione web e mobile",h,h,h,A.a_(h,h,P.aq(209,0,0,1),h,h,h,h,h,g,h,h,j/32,h,h,h,h,!0,h,h,h,h,h,h),C.D)],i),C.aM,C.z,C.l),h,h,h,h,new V.L(0,r/31,0,0),h,q/1.5)],i),C.C,C.l)],i),C.A,C.z,C.l)}if(f.f===5){s=f.i6()
+n=T.aS(H.c([s,T.b9(H.c([M.ae(h,T.aS(H.c([new T.bw(h,r/3.5,h,h),p,o,m,l,k,L.a1(" Ottimizzazione web e mobile",h,h,h,A.a_(h,h,P.aq(209,0,0,1),h,h,h,h,h,g,h,h,j/32,h,h,h,h,!0,h,h,h,h,h,h),C.D)],i),C.aM,C.z,C.l),h,h,h,h,new V.L(0,r/31,0,0),h,q/1.5)],i),C.C,C.l)],i),C.A,C.z,C.l)}if(f.f===6){s=f.i6()
 r=f.e
 q=f.d
 p=L.a1("Tutto questo rappresenter\xe0 la base per la creazione di un\u2019unica piattaforma integrata Clar per:",h,h,h,A.a_(h,h,P.aq(209,0,0,1),h,h,h,h,h,g,h,h,r/32,h,h,h,h,!0,h,h,h,h,h,h),C.W)
@@ -40332,7 +40332,7 @@ l=f.e
 l=L.a1("- soddisfare le esigenze dei clienti (fornendo tracking e monitoraggio delle spedizioni)",h,h,h,A.a_(h,h,P.aq(209,0,0,1),h,h,h,h,h,g,h,h,l/32,h,h,h,h,!0,h,h,h,h,h,h),C.D)
 f=f.e
 k=[N.aj]
-n=T.aS(H.c([s,T.b9(H.c([M.ae(h,T.aS(H.c([new T.bw(h,r/3.5,h,h),p,o,m,l,L.a1("- diffondere l\u2019app per smartphone firmata Clar",h,h,h,A.a_(h,h,P.aq(209,0,0,1),h,h,h,h,h,g,h,h,f/32,h,h,h,h,!0,h,h,h,h,h,h),C.D)],k),C.aM,C.z,C.l),h,h,h,h,new V.L(0,r/31,0,0),h,q/1.5)],k),C.C,C.l)],k),C.A,C.z,C.l)}return M.ae(h,n,h,h,h,u,h,h,t)},
+n=T.aS(H.c([s,T.b9(H.c([M.ae(h,T.aS(H.c([new T.bw(h,r/15,h,h),p,o,m,l,L.a1("- diffondere l\u2019app per smartphone firmata Clar",h,h,h,A.a_(h,h,P.aq(209,0,0,1),h,h,h,h,h,g,h,h,f/32,h,h,h,h,!0,h,h,h,h,h,h),C.D)],k),C.aM,C.z,C.l),h,h,h,h,new V.L(0,r/31,0,0),h,q/1.5)],k),C.C,C.l)],k),C.A,C.z,C.l)}return M.ae(h,n,h,h,h,u,h,h,t)},
 $C:"$2",
 $R:2}
 X.oQ.prototype={
