@@ -40325,7 +40325,7 @@ else{s=P.a5
 t=V.pp(new X.LG(),null,s)
 K.f0(u,!1).eQ(t,s)}},
 Ia:function(){var u,t,s,r,q,p,o,n,m,l=this,k=null,j="Oswald",i=l.e,h=L.a0("Benvenuto",k,k,k,A.X(k,k,C.q,k,k,k,k,k,"KGBrokenVesselsSketch",k,k,i/22.5,k,k,k,k,!0,k,k,k,k,k,k),k),g=l.e,f=l.d
-f=M.S(k,L.a0("C\u2019\xe8 una presentazione pronta per te. Puoi leggerla sia da desktop che da mobile!\nInserisci il PIN a 6 cifre che hai ricevuto",k,k,k,A.X(k,k,C.q,k,k,k,k,k,j,k,k,f/35,k,k,k,k,!0,k,k,k,k,k,k),C.J),k,k,k,g/10,k,k,f/1.5)
+f=M.S(k,L.a0("C\u2019\xe8 una presentazione pronta per te. Puoi leggerla sia da desktop che da mobile!\nInserisci il PIN a 6 cifre che hai ricevuto",k,k,k,A.X(k,k,C.q,k,k,k,k,k,j,k,k,f/35,k,k,k,k,!0,k,k,k,k,k,k),C.J),k,k,k,g/8,k,k,f/1.5)
 u=l.e
 t=l.d
 s=A.X(k,k,C.A,k,k,k,k,k,k,k,k,u/50,k,k,k,k,!0,k,k,k,k,k,k)
