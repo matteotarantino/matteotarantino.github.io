@@ -40286,7 +40286,7 @@ i=[N.ab]
 n=T.al(H.c([s,T.aK(H.c([M.S(h,T.al(H.c([new T.bk(h,r/3.5,h,h),p,o,m,l,k,L.a0("- Ottimizzazione web e mobile",h,h,h,A.X(h,h,P.ar(209,0,0,1),h,h,h,h,h,g,h,h,j/32,h,h,h,h,!0,h,h,h,h,h,h),C.E)],i),C.ae,C.t,C.k),h,h,h,h,new V.I(0,r/31,0,0),h,q/1.5)],i),C.x,C.k)],i),C.v,C.t,C.k)}if(e.f===6){s=e.f2()
 r=e.e
 q=e.d
-p=L.a0("Tutto questo rappresenter\xe0 la base per la creazione di un\u2019unica piattaforma integrata Clar per:",h,h,h,A.X(h,h,P.ar(209,0,0,1),h,h,h,h,h,g,h,h,r/32,h,h,h,h,!0,h,h,h,h,h,h),C.J)
+p=L.a0("Tutto questo rappresenta la base per la creazione di un\u2019unica piattaforma integrata Clar per:",h,h,h,A.X(h,h,P.ar(209,0,0,1),h,h,h,h,h,g,h,h,r/32,h,h,h,h,!0,h,h,h,h,h,h),C.J)
 o=e.e
 o=L.a0("- gestire le vendite e le spedizioni",h,h,h,A.X(h,h,P.ar(209,0,0,1),h,h,h,h,h,g,h,h,o/32,h,h,h,h,!0,h,h,h,h,h,h),C.E)
 m=e.e
@@ -40295,7 +40295,7 @@ l=e.e
 l=L.a0("- soddisfare le esigenze dei clienti (fornendo tracking e monitoraggio delle spedizioni)",h,h,h,A.X(h,h,P.ar(209,0,0,1),h,h,h,h,h,g,h,h,l/32,h,h,h,h,!0,h,h,h,h,h,h),C.E)
 k=e.e
 j=[N.ab]
-n=T.al(H.c([s,T.aK(H.c([M.S(h,T.al(H.c([new T.bk(h,r/15,h,h),p,o,m,l,L.a0("- diffondere l\u2019app per smartphone firmata Clar",h,h,h,A.X(h,h,P.ar(209,0,0,1),h,h,h,h,h,g,h,h,k/32,h,h,h,h,!0,h,h,h,h,h,h),C.E)],j),C.ae,C.t,C.k),h,h,h,h,new V.I(0,r/31,0,0),h,q/1.5)],j),C.x,C.k)],j),C.v,C.t,C.k)}if(e.f===7){s=e.f2()
+n=T.al(H.c([s,T.aK(H.c([M.S(h,T.al(H.c([new T.bk(h,r/15,h,h),p,o,m,l,L.a0("- pubblicare l\u2019app per smartphone firmata Clar",h,h,h,A.X(h,h,P.ar(209,0,0,1),h,h,h,h,h,g,h,h,k/32,h,h,h,h,!0,h,h,h,h,h,h),C.E)],j),C.ae,C.t,C.k),h,h,h,h,new V.I(0,r/31,0,0),h,q/1.5)],j),C.x,C.k)],j),C.v,C.t,C.k)}if(e.f===7){s=e.f2()
 r=e.e
 q=e.d
 p=L.a0("Il prezzo abituale per la realizzazione in 60gg di una piattaforma web come questa sarebbe di ",h,h,h,A.X(h,h,C.A,h,h,h,h,h,g,h,h,r/32,h,h,h,h,!0,h,h,h,h,h,h),C.J)
